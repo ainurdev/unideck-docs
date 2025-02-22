@@ -17,3 +17,6 @@
   * [Sticky Note](user-manual/widgets/sticky-note.md)
   * [Pomodoro](user-manual/widgets/pomodoro.md)
   * [Time](user-manual/widgets/time.md)
+  * [Quote](user-manual/widgets/quote.md)
+  * [Weather](user-manual/widgets/weather.md)
+  * [Notes](user-manual/widgets/notes.md)
