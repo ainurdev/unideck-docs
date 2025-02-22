@@ -24,3 +24,6 @@
   * [Google Emails (Gmail)](user-manual/widgets/google-emails-gmail.md)
   * [Toggl Timer](user-manual/widgets/toggl-timer.md)
   * [GitHub - Pull Requests](user-manual/widgets/github-pull-requests.md)
+  * [GitHub - Issues](user-manual/widgets/github-issues.md)
+  * [GitHub - Actions (Premium)](user-manual/widgets/github-actions-premium.md)
+  * [GitHub Personal - Notifications](user-manual/widgets/github-personal-notifications.md)
