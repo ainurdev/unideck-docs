@@ -20,3 +20,4 @@
   * [Quote](user-manual/widgets/quote.md)
   * [Weather](user-manual/widgets/weather.md)
   * [Notes](user-manual/widgets/notes.md)
+  * [Todo List](user-manual/widgets/todo-list.md)
