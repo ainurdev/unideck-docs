@@ -14,3 +14,5 @@
   * [Calendar](user-manual/widgets/calendar.md)
   * [Counter](user-manual/widgets/counter.md)
   * [Timer](user-manual/widgets/timer.md)
+  * [Sticky Note](user-manual/widgets/sticky-note.md)
+  * [Pomodoro](user-manual/widgets/pomodoro.md)
