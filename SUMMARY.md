@@ -11,3 +11,6 @@
   * [How to Use Profiles on UniDeck](user-manual/getting-started-with-unideck/how-to-use-profiles-on-unideck.md)
 * [Widgets](user-manual/widgets/README.md)
   * [App](user-manual/widgets/app.md)
+  * [Calendar](user-manual/widgets/calendar.md)
+  * [Counter](user-manual/widgets/counter.md)
+  * [Timer](user-manual/widgets/timer.md)

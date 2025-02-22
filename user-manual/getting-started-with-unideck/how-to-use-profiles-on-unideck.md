@@ -14,7 +14,7 @@ Upon your first login:
 2. **Profile Selection**: Choose from predefined options like Home, Work, Gaming, Fun, or select "Custom" to define your own.
 3. **Finalize**: Click "Create Profile" to establish your personalized dashboard space.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Using the User Toolbar
 
