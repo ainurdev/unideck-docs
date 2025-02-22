@@ -27,3 +27,5 @@
   * [GitHub - Issues](user-manual/widgets/github-issues.md)
   * [GitHub - Actions (Premium)](user-manual/widgets/github-actions-premium.md)
   * [GitHub Personal - Notifications](user-manual/widgets/github-personal-notifications.md)
+  * [GitLab - Merge Requests](user-manual/widgets/gitlab-merge-requests.md)
+  * [GitLab - Pipelines](user-manual/widgets/gitlab-pipelines.md)

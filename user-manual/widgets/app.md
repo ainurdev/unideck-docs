@@ -2,7 +2,7 @@
 
 The **App Widget** in UniDeck serves as a customizable bookmark tool, enabling users to add icons on their dashboard that link directly to specified URLs. This feature provides quick access to frequently used applications, websites, or internal tools, enhancing workflow efficiency and personalization.
 
-<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/Screen Shot 2025-02-22 at 15.48.19.png" alt="" width="234"><figcaption><p>App Widget in Widget Gallery</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>App Widget in use on a dashboard</p></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/Screen Shot 2025-02-22 at 15.48.19.png" alt="" width="234"><figcaption><p>App Widget in Widget Gallery</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>App Widget in use on a dashboard</p></figcaption></figure></div>
 
 ### How to Use the App Widget
 
