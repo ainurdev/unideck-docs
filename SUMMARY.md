@@ -29,3 +29,6 @@
   * [GitHub Personal - Notifications](user-manual/widgets/github-personal-notifications.md)
   * [GitLab - Merge Requests](user-manual/widgets/gitlab-merge-requests.md)
   * [GitLab - Pipelines](user-manual/widgets/gitlab-pipelines.md)
+  * [Trello - Assignments](user-manual/widgets/trello-assignments.md)
+  * [Jira - Active Sprint](user-manual/widgets/jira-active-sprint.md)
+  * [Jira - Issues](user-manual/widgets/jira-issues.md)
