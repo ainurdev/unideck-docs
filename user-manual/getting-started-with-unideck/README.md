@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/full-logo-colored-512px.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Getting Started with UniDeck
 
 Welcome to UniDeck! This guide will help you kickstart your journey in creating personalized dashboards and portals without writing any code. Whether you're an individual or part of a large enterprise, UniDeck streamlines your workflow by integrating your favorite tools into one intuitive platform.

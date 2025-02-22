@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/full-logo-black-512px.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Introduction
 
 UniDeck is a no-code platform that empowers you to build and launch fully functional dashboards and portals without writing a single line of code. By seamlessly integrating with tools like Jira, Google Workspace, Microsoft Teams, Trello, and GitHub, UniDeck consolidates your essential applications into one intuitive interface. Our AI-driven customization assists you in designing layouts, automating tasks, and uncovering insights effortlessly.
