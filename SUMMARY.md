@@ -16,3 +16,4 @@
   * [Timer](user-manual/widgets/timer.md)
   * [Sticky Note](user-manual/widgets/sticky-note.md)
   * [Pomodoro](user-manual/widgets/pomodoro.md)
+  * [Time](user-manual/widgets/time.md)
