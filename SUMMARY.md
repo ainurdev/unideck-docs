@@ -25,6 +25,7 @@
   * [Weather](user-manual/widgets/weather.md)
   * [Notes](user-manual/widgets/notes.md)
   * [Todo List](user-manual/widgets/todo-list.md)
+  * [Advanced - Table](user-manual/widgets/advanced-table.md)
   * [Google Emails (Gmail)](user-manual/widgets/google-emails.md)
   * [Toggl Timer](user-manual/widgets/toggl-timer.md)
   * [GitHub - Pull Requests](user-manual/widgets/github-pull-requests.md)
