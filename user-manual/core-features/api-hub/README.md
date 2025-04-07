@@ -37,3 +37,32 @@ The request editor is where you can create and edit your API requests. It consis
 7. **Basic Auth**: This is where you can enter the username and password for basic authentication. The username and password will be automatically encoded for you.
 8. **Bearer Token**: This is where you can enter the bearer token for authentication. You can also customize the prefix for the token. The token will be automatically encoded for you if needed.
 9. **Body**: This is where you can enter the body for your request. You can only send text based body types like `application/json`, `application/x-www-form-urlencoded`, `text/plain`, `text/html` and `application/xml`. The content-type needs to be manually set in the headers. The body will be automatically encoded for you if needed.
+
+### Response Viewer
+
+The Response Viewer in UniDeck's API Hub allows you to inspect API responses in detail. It displays the status code, headers, and body of the response, enabling you to understand the data returned by your API calls.​
+
+#### Features
+
+* **Status Code Display**: Clearly indicates the HTTP status code returned by the API.​
+* **Headers Inspection**: Shows important headers like \`content-type\`, providing insight into metadata sent by the server.​
+* **Body Preview**: Presents the response body in a formatted and readable manner, supporting various content types such as JSON, XML, and plain text.​
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Successful Response View</td><td><a href="../../../.gitbook/assets/Screenshot 2025-04-07 185235.png">Screenshot 2025-04-07 185235.png</a></td></tr><tr><td>Error Response View</td><td><a href="../../../.gitbook/assets/Screenshot 2025-04-07 185214.png">Screenshot 2025-04-07 185214.png</a></td></tr></tbody></table>
+
+### Troubleshooting Errors
+
+When an API call results in an error, UniDeck's troubleshooting view assists in diagnosing and resolving the issue.​
+
+#### Error Details
+
+* **Error Messages**: Displays the error message returned by the API, offering initial insight into the problem.​
+* **Stack Trace**: If available, provides a stack trace to help pinpoint where the error occurred.​
+* **Suggested Solutions**: Offers recommendations or links to relevant documentation to aid in resolving the error.​
+
+For comprehensive guidance on handling specific error codes and messages, refer to the Troubleshooting Guide.​
+
+{% content-ref url="troubleshooting-guide.md" %}
+[troubleshooting-guide.md](troubleshooting-guide.md)
+{% endcontent-ref %}
+
