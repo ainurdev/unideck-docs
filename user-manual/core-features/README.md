@@ -8,8 +8,8 @@ The API Hub is the heart of UniDeck's advanced widgets and custom data insights.
 
 You have probably used tools like Postman, Insomnia, or even curl to test APIs before. The API Hub is similar to these tools, but it is designed to be used in your dashboards. You can use the API Hub to connect to any HTTP API as a data source and use the data in your widgets.
 
-{% content-ref url="api-hub.md" %}
-[api-hub.md](api-hub.md)
+{% content-ref url="api-hub/" %}
+[api-hub](api-hub/)
 {% endcontent-ref %}
 
 ### AI Insights

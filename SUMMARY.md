@@ -38,5 +38,6 @@
   * [Jira - Active Sprint](user-manual/widgets/jira-active-sprint.md)
   * [Jira - Issues](user-manual/widgets/jira-issues.md)
 * [Core Features](user-manual/core-features/README.md)
-  * [API Hub](user-manual/core-features/api-hub.md)
+  * [API Hub](user-manual/core-features/api-hub/README.md)
+    * [Request Editor Spec](user-manual/core-features/api-hub/request-editor-spec.md)
   * [AI Insights](user-manual/core-features/ai-insights.md)
