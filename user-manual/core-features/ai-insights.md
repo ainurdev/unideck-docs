@@ -2,6 +2,8 @@
 
 ​UniDeck's **AI Insights** feature provides personalized recommendations directly on your dashboard, enhancing productivity by intelligently analyzing your connected data sources. Accessed through the **Brain** icon in the bottom control-bar, AI Insights seamlessly integrates insights derived from your tasks, to-do lists, meetings, invoices, paid bills, emails, and other connected services.​
 
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-04-07 at 19.12.07 (1).png" alt=""><figcaption><p>AI Insights Modal</p></figcaption></figure>
+
 ### How It Works
 
 AI Insights leverages advanced machine learning algorithms to analyze your daily interactions, tasks, and commitments. By aggregating and interpreting data across your connected integrations, it proactively identifies patterns, suggests actionable productivity enhancements, and highlights potential inefficiencies in your workflow.​
