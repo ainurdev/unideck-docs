@@ -37,3 +37,7 @@
   * [Trello - Assignments](user-manual/widgets/trello-assignments.md)
   * [Jira - Active Sprint](user-manual/widgets/jira-active-sprint.md)
   * [Jira - Issues](user-manual/widgets/jira-issues.md)
+
+***
+
+* [Core Features](core-features.md)
