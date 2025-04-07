@@ -24,11 +24,11 @@ This can be verified by yourself with checking your browser console if you're a 
 
 The API Hub's interface is designed to be simple and easy to use. It consists of a few main sections:
 
+<figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+
 1. **API Requests**: This is where you can create and manage your API requests. You can create new requests, edit existing ones, and delete or duplicate requests.
 2. **Create new request - Edit request**: This is where you can create a new request or edit an existing one after selecting it on **API Reqeuests**. You can specify the request method (GET, POST, PUT, DELETE), the URL, any headers, authentication method, body or query parameters you want to include in the request.
 3. **Response**: This is where you can see the response from the API request. You can view the response body and status code. You can also see any errors that occurred during the request.
-
-<figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ### Request Editor
 
