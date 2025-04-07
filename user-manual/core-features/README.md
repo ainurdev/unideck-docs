@@ -1,3 +1,9 @@
+---
+description: >-
+  Overview of UniDeck's foundational functionalities, including API Hub and AI
+  Insights
+---
+
 # Core Features
 
 Widgets are the building blocks of your UniDeck dashboards. But all of these widgets are able to work together because of the core backbone of UniDeck. The core functionalities documented in this section are the features that make UniDeck become your smart dashboard and assistant.

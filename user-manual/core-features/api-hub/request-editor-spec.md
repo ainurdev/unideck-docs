@@ -1,3 +1,9 @@
+---
+description: >-
+  Detailed guide on configuring and editing API requests using UniDeck's API Hub
+  Request Editor
+---
+
 # Request Editor Spec
 
 The Request Editor in UniDeck's API Hub is designed to help you easily create, configure, and manage API requests within your dashboards. This document outlines the specifications and capabilities of the Request Editor, ensuring you can effectively integrate APIs with your dashboards.

@@ -1,3 +1,9 @@
+---
+description: >-
+  UniDeck's AI providing personalized recommendations by analyzing connected
+  data sources to enhance productivity
+---
+
 # AI Insights
 
 ​UniDeck's **AI Insights** feature provides personalized recommendations directly on your dashboard, enhancing productivity by intelligently analyzing your connected data sources. Accessed through the **Brain** icon in the bottom control-bar, AI Insights seamlessly integrates insights derived from your tasks, to-do lists, meetings, invoices, paid bills, emails, and other connected services.​

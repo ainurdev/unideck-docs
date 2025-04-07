@@ -1,3 +1,9 @@
+---
+description: >-
+  Centralized tool in UniDeck for connecting and managing HTTP APIs within
+  dashboards
+---
+
 # API Hub
 
 One of the main goals of creating UniDeck was to provide a way to easily integrate your custom data and have an easy to use and customize dashboard unlike the existing solutions. The API Hub is the core of this functionality. It allows you to connect to any HTTP API and use the data in your dashboards.
