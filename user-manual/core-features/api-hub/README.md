@@ -62,7 +62,7 @@ When an API call results in an error, UniDeck's troubleshooting view assists in 
 
 For comprehensive guidance on handling specific error codes and messages, refer to the Troubleshooting Guide.​
 
-{% content-ref url="troubleshooting-guide.md" %}
-[troubleshooting-guide.md](troubleshooting-guide.md)
+{% content-ref url="troubleshooting-the-api-hub.md" %}
+[troubleshooting-the-api-hub.md](troubleshooting-the-api-hub.md)
 {% endcontent-ref %}
 

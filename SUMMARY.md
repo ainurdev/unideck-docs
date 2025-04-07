@@ -40,5 +40,5 @@
 * [Core Features](user-manual/core-features/README.md)
   * [API Hub](user-manual/core-features/api-hub/README.md)
     * [Request Editor Spec](user-manual/core-features/api-hub/request-editor-spec.md)
-    * [Troubleshooting Guide](user-manual/core-features/api-hub/troubleshooting-guide.md)
+    * [Troubleshooting the API Hub](user-manual/core-features/api-hub/troubleshooting-the-api-hub.md)
   * [AI Insights](user-manual/core-features/ai-insights.md)
