@@ -48,7 +48,7 @@ The Response Viewer in UniDeck's API Hub allows you to inspect API responses in 
 * **Headers Inspection**: Shows important headers like \`content-type\`, providing insight into metadata sent by the server.​
 * **Body Preview**: Presents the response body in a formatted and readable manner, supporting various content types such as JSON, XML, and plain text.​
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Successful Response View</td><td><a href="../../../.gitbook/assets/Screenshot 2025-04-07 185235.png">Screenshot 2025-04-07 185235.png</a></td></tr><tr><td>Error Response View</td><td><a href="../../../.gitbook/assets/Screenshot 2025-04-07 185214.png">Screenshot 2025-04-07 185214.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Successful Response View</td><td><a href="../../../.gitbook/assets/Screenshot 2025-04-07 185235.png">Screenshot 2025-04-07 185235.png</a></td></tr><tr><td>Error Response View</td><td><a href="../../../.gitbook/assets/Screenshot 2025-04-07 185214.png">Screenshot 2025-04-07 185214.png</a></td></tr></tbody></table>
 
 ### Troubleshooting Errors
 
