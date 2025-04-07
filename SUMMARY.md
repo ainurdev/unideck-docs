@@ -37,6 +37,7 @@
   * [Trello - Assignments](user-manual/widgets/trello-assignments.md)
   * [Jira - Active Sprint](user-manual/widgets/jira-active-sprint.md)
   * [Jira - Issues](user-manual/widgets/jira-issues.md)
+  * [Meetings](user-manual/widgets/meetings.md)
 * [Core Features](user-manual/core-features/README.md)
   * [API Hub](user-manual/core-features/api-hub/README.md)
     * [Request Editor Spec](user-manual/core-features/api-hub/request-editor-spec.md)
