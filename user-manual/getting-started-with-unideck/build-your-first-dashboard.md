@@ -50,8 +50,8 @@ Follow these steps to bring your dashboard to life:
 
 To further enhance your UniDeck experience:
 
-* **Tutorials and Guides**: Visit the [UniDeck How-To Guide](https://aipure.ai/products/unideck/howto) for step-by-step tutorials.
 * **Community Support**: Join the UniDeck community forums to share experiences, ask questions, and learn from others.
-* **Early Adopters Program**: Participate in shaping UniDeck's future features by joining the Early Adopters Program.
+  * **Discord:** [**https://discord.gg/yYfaEaVVSe**](https://discord.gg/yYfaEaVVSe)
+* **Early Adopters Program**: Participate in shaping UniDeck's future features by joining the Early Adopters Program via upgrading to Plus tier.
 
 By following this guide, you're well on your way to creating a customized dashboard that centralizes your tools and optimizes your workflow.
