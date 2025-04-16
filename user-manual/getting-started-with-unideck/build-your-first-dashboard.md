@@ -19,8 +19,6 @@ Familiarizing yourself with UniDeck's key terms will enhance your dashboard-buil
 
 * **Widgets**: Modular components (e.g., charts, tables, task lists) that display specific data or functionalities on your dashboard.
 * **Integrations**: Connections between UniDeck and external applications, enabling seamless data flow and interaction.
-* **Workflows**: Automated sequences that perform predefined actions based on specific triggers or conditions.
-* **Templates**: Pre-designed dashboard layouts that can be customized to suit your requirements.
 * **AI-Powered Customization**: Features that leverage artificial intelligence to suggest design elements, automate tasks, and provide insights.
 
 ### Planning Your First Dashboard
