@@ -13,6 +13,16 @@
   * [Choosing Widgets from the Widget Gallery](user-manual/getting-started-with-unideck/choosing-widgets-from-the-widget-gallery.md)
   * [How to Use Profiles on UniDeck](user-manual/getting-started-with-unideck/how-to-use-profiles-on-unideck.md)
 
+***
+
+* [Guides](guides/README.md)
+  * [Connect more integrations](guides/connect-more-integrations.md)
+  * [Manage your AI](guides/manage-your-ai.md)
+  * [Change wallpaper](guides/change-wallpaper.md)
+  * [Manage requests in API Hub](guides/manage-requests-in-api-hub.md)
+  * [Change your account password](guides/change-your-account-password.md)
+  * [Delete your account](guides/delete-your-account.md)
+
 ## Reference and Spec
 
 * [Core Features](reference-and-spec/core-features/README.md)
@@ -45,3 +55,8 @@
   * [Trello - Assignments](reference-and-spec/widgets/trello-assignments.md)
   * [Jira - Active Sprint](reference-and-spec/widgets/jira-active-sprint.md)
   * [Jira - Issues](reference-and-spec/widgets/jira-issues.md)
+
+## Community
+
+* [Report a bug or send feedback](community/report-a-bug-or-send-feedback.md)
+* [Join Discord](community/join-discord.md)

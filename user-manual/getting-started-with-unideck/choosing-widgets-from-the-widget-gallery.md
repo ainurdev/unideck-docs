@@ -9,7 +9,7 @@ To add new widgets to your dashboard:
 1. **Open Your Dashboard**: Log in to your UniDeck account and navigate to the dashboard you wish to customize.
 2. **Add More Widgets**: Click on the "Add More Widgets" button to open the Widget Gallery.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="Widget Gallery"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="Widget Gallery"><figcaption></figcaption></figure>
 
 ### Exploring and Adding Widgets
 
