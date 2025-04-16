@@ -1,15 +1,14 @@
 # What is UniDeck?
 
-UniDeck is a no-code platform designed to empower users to create personalized dashboards and portals without the need for coding expertise. By seamlessly integrating with popular tools such as Jira, Google Workspace, Microsoft Teams, Trello, and GitHub, UniDeck consolidates your essential applications into a single, intuitive interface. Its AI-driven customization assists in designing layouts, automating tasks, and uncovering valuable insights, enhancing productivity and collaboration for individuals and enterprises alike.
-
 {% embed url="https://youtu.be/5CzYnY60hx4" %}
 
 ### Key Features
 
-*   **Seamless Integrations**: Connect effortlessly with tools you already use, bringing everything together to simplify your workflow.
+* **Seamless Integrations**: Connect effortlessly with tools you already use, bringing everything together to simplify your workflow.
+  *   Google Workspace, Jira, GitHub, GitLab, Toggl, OpenAI and more!
 
 
-*   **AI-Powered Customization**: Design dashboards tailored to your needs with AI assistance, enabling you to create layouts, automate tasks, and uncover insights with ease.
+*   **AI-Powered Insights**: We use the data provided by the widgets that you use on your dashboards to give you AI insights to always be on top of your game!
 
 
 *   **Built for Everyone**: Whether you're a freelancer managing multiple projects or part of a large enterprise coordinating complex tasks, UniDeck adapts to fit your needs, boosting productivity and collaboration at every scale.
@@ -36,6 +35,12 @@ UniDeck offers flexible pricing plans to suit various needs:
 ### Join Our Early Adopters Program
 
 Be among the first to explore and shape UniDeck's latest features before their official release. As an Early Adopter, you'll gain exclusive access to pioneering features, enjoy special rewards and discounts, and have opportunities to participate in private sessions and workshops with the UniDeck team and fellow innovators.
+
+Upgrade to the Plus plan now and get access to all our premium features and have a direct line of contact with our team for your ideas and feedback!
+
+### Wizards behind UniDeck
+
+UniDeck is built by the team at Ainur, a tech R\&D lab based in the Netherlands. We're a group of engineers and designers who love building useful tools that make complex things simple. At [ainurhq.cloud](https://ainurhq.cloud), we work on research-driven projects that help people do more with less effort. UniDeck is one of those projects. A clean, easy-to-use platform that lets anyone create dashboards without needing to code.
 
 ***
 
