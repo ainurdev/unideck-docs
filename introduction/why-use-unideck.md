@@ -25,7 +25,7 @@ UniDeck is your all-in-one, no-code platform designed to streamline your workflo
 
 ### From Simple Dashboards to Complex Systems
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example Dashboard for Remote Work</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example Dashboard for Remote Work</p></figcaption></figure>
 
 Getting started with UniDeck takes just a few minutes. You can connect your Google Workspaces, GitHub, Zoom or Apple accounts to build a personalized hub that shows your emails, meetings, and tasks in one place. With a few clicks, you can:
 
@@ -53,7 +53,7 @@ UniDeck lets you create that, all in one place, visually.
 
 ### Built for Everyone, From Makers to Teams
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Advanced Table Example with Custom API as Data Source</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Advanced Table Example with Custom API as Data Source</p></figcaption></figure>
 
 UniDeck was designed with both beginners and power users in mind:
 

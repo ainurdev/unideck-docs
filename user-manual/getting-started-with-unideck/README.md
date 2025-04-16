@@ -19,27 +19,28 @@ layout:
 
 # Getting Started with UniDeck
 
-Welcome to UniDeck! This guide will help you kickstart your journey in creating personalized dashboards and portals without writing any code. Whether you're an individual or part of a large enterprise, UniDeck streamlines your workflow by integrating your favorite tools into one intuitive platform.
+Welcome to **UniDeck's Step-by-Step Guide,** where we'll be covering everything you need to know for starting your journey with UniDeck!
 
-### How to Use the UniDeck User Manual
+{% hint style="info" %}
+It'll be a smooth ride, just don't panic and keep in mind where your [towel](https://hitchhikers.fandom.com/wiki/Towel) is!
+{% endhint %}
 
-The UniDeck User Manual is a comprehensive collection of articles designed to teach you how to use UniDeck effectively. You can read it sequentially to build a strong foundation or jump directly to topics that interest you. Instead of focusing on individual settings, this manual explores broader topics such as design, data management, and automation, providing a holistic understanding of dashboard creation and workflow optimization.
+Whether you're setting up a simple dashboard to check your calendar and emails or building a fully interactive workspace that rivals tools like Grafana, UniDeck is here to make it effortless.
 
-For concise, technical details about specific features, refer to the Core Reference section of the documentation.
+#### What You Can Expect
 
-### How to Navigate the User Manual
+In this quick guide, you'll:
 
-The User Manual is structured to accommodate both beginners and experienced users. If you're new to UniDeck, we recommend starting with each section to familiarize yourself with the manual's layout. This approach allows you to understand the available resources and easily return to specific topics when needed.
+* Create an account or start exploring without one!
+* Start using your first dashboard
+* Add and arrange powerful widgets (Calendar, Email, Tasks, Graphs, Tables, and more)
+* Connect your favorite services (Google, GitHub, Jira, etc.)
+* Customize your layout to match your style and workflow
 
-#### Additional Resources and Support
-
-Beyond the User Manual, UniDeck offers various resources to support your learning and troubleshooting needs:
-
-* **Video Tutorials**: Step-by-step videos demonstrating key features and functionalities.
-* **Community Forums**: Engage with other UniDeck users, share experiences, and seek advice.
-* **Interactive Tutorials**: Hands-on lessons within the UniDeck interface to practice as you learn.
-* **Customer Support**: Access to UniDeck's support team for personalized assistance.
+No coding. No setup headaches. Just drag, drop, and get to work.
 
 ***
 
-Embark on your UniDeck journey today and transform the way you manage your workflows. Dive into the User Manual to unlock the full potential of UniDeck!
+Need help along the way? Check our reference book or contact us through here: [https://unideck.app/contact](https://unideck.app/contact)
+
+Let’s go. Your dashboard, your way. 💡

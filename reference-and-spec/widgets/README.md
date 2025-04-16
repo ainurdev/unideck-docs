@@ -29,7 +29,7 @@ UniDeck allows you to link numerous accounts across different providers, ensurin
 * **Unified Dashboard**: Aggregate data from various sources to create a cohesive and comprehensive view of your workflows.
 * **Flexible Management**: Add, remove, or modify account connections as your needs evolve, ensuring your dashboard remains up-to-date.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Enhancing Daily Productivity with Basic Widgets
 

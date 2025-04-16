@@ -14,7 +14,7 @@ Upon your first login:
 2. **Profile Selection**: Choose from predefined options like Home, Work, Gaming, Fun, or select "Custom" to define your own.
 3. **Finalize**: Click "Create Profile" to establish your personalized dashboard space.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Using the User Toolbar
 
@@ -25,7 +25,7 @@ To create additional profiles:
 3. **Assign a Name**: Enter a unique name for the new profile.
 4. **Finalize**: Click "Create Profile" to add the new profile to your dashboard.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Managing Profiles
 

@@ -9,7 +9,8 @@
 ## User Manual
 
 * [Getting Started with UniDeck](user-manual/getting-started-with-unideck/README.md)
-  * [Build Your First Dashboard](user-manual/getting-started-with-unideck/build-your-first-dashboard.md)
+  * [Create an Account or Log In](user-manual/getting-started-with-unideck/create-an-account-or-log-in.md)
+  * [Customize Your First Dashboard](user-manual/getting-started-with-unideck/customize-your-first-dashboard.md)
   * [Choosing Widgets from the Widget Gallery](user-manual/getting-started-with-unideck/choosing-widgets-from-the-widget-gallery.md)
   * [How to Use Profiles on UniDeck](user-manual/getting-started-with-unideck/how-to-use-profiles-on-unideck.md)
 
