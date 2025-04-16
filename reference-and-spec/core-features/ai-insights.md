@@ -24,8 +24,8 @@ AI Insights leverages advanced machine learning algorithms to analyze your daily
 
 UniDeck offers AI Insights across different subscription plans, each tailored to meet varying user needs:​
 
-* **Free Plan:** Users receive up to 15 AI-powered insights per week, allowing them to experience the benefits of AI-driven productivity enhancements.​
-* **Plus Plan:** Subscribers enjoy unlimited AI-powered insights and suggestions via UniDeck AI, ChatGPT, Gemini, and more, facilitating continuous productivity improvements without limitations.​
+* **Free Plan:** Users receive weekly AI-powered insights, allowing them to experience the benefits of AI-driven productivity enhancements.​
+* **Plus Plan:** Subscribers enjoy unlimited live AI-powered insights and suggestions via UniDeck AI, ChatGPT, Gemini, and more, facilitating continuous productivity improvements without limitations.​
 * **Enterprise Plan:** Designed for organizations requiring advanced features, this plan includes the option to host the UniDeck AI Engine on-premise or within a private cloud environment. This setup ensures enhanced data privacy and security, aligning with enterprise-level compliance requirements.​
 
 For a comprehensive overview of all available plans and their features, please visit our [Pricing Page](https://unideck.app/pricing).​

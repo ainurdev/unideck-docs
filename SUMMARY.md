@@ -14,6 +14,7 @@
   * [Add New Widgets](user-manual/getting-started-with-unideck/add-new-widgets.md)
   * [Configure Your Widgets](user-manual/getting-started-with-unideck/configure-your-widgets.md)
   * [Create and Edit Dashboards](user-manual/getting-started-with-unideck/create-and-edit-dashboards.md)
+  * [Upgrade Your Account](user-manual/getting-started-with-unideck/upgrade-your-account.md)
 
 ***
 
