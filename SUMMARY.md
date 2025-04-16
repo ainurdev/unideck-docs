@@ -18,7 +18,7 @@
 
 * [Guides](guides/README.md)
   * [Connect more integrations](guides/connect-more-integrations.md)
-  * [Manage your AI](guides/manage-your-ai.md)
+  * [Manage AI Insight](guides/manage-ai-insight.md)
   * [Change wallpaper](guides/change-wallpaper.md)
   * [Manage requests in API Hub](guides/manage-requests-in-api-hub.md)
   * [Change your account password](guides/change-your-account-password.md)
