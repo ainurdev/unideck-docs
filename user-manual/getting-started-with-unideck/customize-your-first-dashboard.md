@@ -8,7 +8,7 @@ As soon as you sign up, UniDeck automatically generates a ready-to-use “Home�
 
 ### Your First Dashboard: What’s Inside
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sample First Dashboard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Sample First Dashboard</p></figcaption></figure>
 
 The **default layout** includes a variety of helpful widgets:
 
