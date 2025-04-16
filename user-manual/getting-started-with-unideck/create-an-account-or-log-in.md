@@ -12,7 +12,7 @@ Perfect for quick setups, temporary use, or testing ideas.
 
 ### Create an Account or Log In
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>UniDeck's Login Modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>UniDeck's Login Modal</p></figcaption></figure>
 
 To unlock the full power of UniDeck, including saving your dashboards, syncing across devices, connecting integrations, and accessing advanced widgets, you’ll need an account.
 

@@ -25,6 +25,11 @@
   * [Manage requests in API Hub](guides/manage-requests-in-api-hub.md)
   * [Change your account password](guides/change-your-account-password.md)
   * [Delete your account](guides/delete-your-account.md)
+* [UniDeck Teams](unideck-teams/README.md)
+  * [Create a Team](unideck-teams/create-a-team.md)
+  * [Share Dashboards with Team](unideck-teams/share-dashboards-with-team.md)
+  * [Manage Team Members](unideck-teams/manage-team-members.md)
+  * [Upgrade a Team](unideck-teams/upgrade-a-team.md)
 
 ## Reference and Spec
 

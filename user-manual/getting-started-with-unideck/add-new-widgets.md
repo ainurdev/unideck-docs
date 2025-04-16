@@ -15,7 +15,7 @@ Widgets are the heart of your UniDeck dashboard. They bring data, tools, and pro
 
 ### Widget Gallery Overview
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption><p>Widget Gallery</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="563"><figcaption><p>Widget Gallery</p></figcaption></figure>
 
 As shown in the screenshot above, the widget gallery is clean, categorized, and easy to explore.
 

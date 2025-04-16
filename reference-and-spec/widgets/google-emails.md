@@ -23,7 +23,7 @@ Designed to enhance productivity, the Google Emails Widget allows you to:
 
 ### App-View Mode
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Google Emails (Gmail) App-View</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Google Emails (Gmail) App-View</p></figcaption></figure>
 
 For a more focused email management experience, the widget offers an "App-View" mode:
 

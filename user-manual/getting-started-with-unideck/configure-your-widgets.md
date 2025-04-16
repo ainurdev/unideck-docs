@@ -12,7 +12,7 @@ This guide shows you how to use the **right-click context menu** and the **confi
 
 Right-clicking on any widget opens a **context menu**, which may include up to three sections depending on the widget’s features.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Context Menu Example from Time Widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Context Menu Example from Time Widget</p></figcaption></figure>
 
 #### 1. Widget-Specific Settings (🟩 Top Section)
 
@@ -52,7 +52,7 @@ The Time widget lets you:
 * Choose a **Display Style** (Simple / Scrolling / Binary)
 * Select a **Timezone** for that clock (great for remote teams!)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Time Widget Configuration Modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>Time Widget Configuration Modal</p></figcaption></figure>
 
 This makes it easy to keep multiple clocks in different styles and zones on one dashboard.
 
@@ -71,7 +71,7 @@ This is one of our most advanced widgets so don't worry about it at this point. 
 * **Column view and look customization**
 * **Automatic and manual data array selection from response**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Advanced Table Widget Configuration Modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="563"><figcaption><p>Advanced Table Widget Configuration Modal</p></figcaption></figure>
 
 ***
 

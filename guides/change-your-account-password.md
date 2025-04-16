@@ -4,7 +4,7 @@ To reset your account password, please follow these steps:
 
 * Click on your account name in the bottom bar.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Select **Settings**
 

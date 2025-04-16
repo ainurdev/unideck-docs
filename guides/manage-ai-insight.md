@@ -2,7 +2,7 @@
 
 Unideck offers seamless integration with a variety of AI service providers, including Gemini, ChatGPT, and our proprietary in-house AI technology. These integrations are designed to enhance your productivity and insight capabilities. To take advantage of these advanced AI features, simply navigate to the bottom bar of the interface, where you'll find the "AI Insight" button:
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Change AI Provider
 
