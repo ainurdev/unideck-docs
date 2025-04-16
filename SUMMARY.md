@@ -13,7 +13,7 @@
   * [Customize Your First Dashboard](user-manual/getting-started-with-unideck/customize-your-first-dashboard.md)
   * [Add New Widgets](user-manual/getting-started-with-unideck/add-new-widgets.md)
   * [Configure Your Widgets](user-manual/getting-started-with-unideck/configure-your-widgets.md)
-  * [How to Use Profiles on UniDeck](user-manual/getting-started-with-unideck/how-to-use-profiles-on-unideck.md)
+  * [Create and Edit Dashboards](user-manual/getting-started-with-unideck/create-and-edit-dashboards.md)
 
 ***
 
