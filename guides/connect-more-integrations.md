@@ -10,11 +10,11 @@ To add additional accounts to your Unideck account, follow these steps:
 
 * Click on your account name in the bottom bar.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 * Select **Settings**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Choose and Connect your account from integration page
 
