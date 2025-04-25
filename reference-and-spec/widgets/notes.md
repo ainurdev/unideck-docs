@@ -28,7 +28,7 @@ For a more focused and distraction-free writing environment, the Notes Widget of
 * **Accessing App-View**: Click on any existing note or select "New Note" when the widget is in Small size to open the App-View.
 * **Enhanced Focus**: This mode provides a larger workspace, minimizing distractions and allowing for more detailed note-taking.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Notes App-View</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Notes App-View</p></figcaption></figure>
 
 ### Customization Options
 

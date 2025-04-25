@@ -20,7 +20,7 @@ This feature makes it easy to give visibility into your workflows while maintain
 2. Click the **three dots** next to the dashboard you want to share.
 3. Select **"Share with Team"** from the dropdown menu.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

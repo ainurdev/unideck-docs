@@ -4,7 +4,7 @@ Unideck offers seamless integration with a variety of AI service providers, incl
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Change AI Provider
+### Change AI Provider
 
 To change the provider, click on the three-dot button in the top right of AI:
 
@@ -14,7 +14,7 @@ To change the provider, click on the three-dot button in the top right of AI:
 We will introduce tailored AI solutions specifically designed for teams and enterprises
 {% endhint %}
 
-#### Disable AI Insight
+### Disable AI Insight
 
 To disable AI insights, select "None" from the providers list
 

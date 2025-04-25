@@ -15,7 +15,7 @@ To get started:
 3. In the profile context menu, click the **“+” button** next to the **Teams** section.
 4. This will open the **Create Team** modal.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>UniDeck Control-Bar Screenshot to Create Teams</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>UniDeck Control-Bar Screenshot to Create Teams</p></figcaption></figure>
 
 ***
 
@@ -37,7 +37,7 @@ Inside the **Create Team** modal (as shown in the screenshot), you'll see the fo
 
 After entering email addresses, click the **Invite** button to queue the users for your team.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Create Team Screenshot (Empty)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Create Team Screenshot (Empty)</p></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ Once you’ve:
 * Chosen a team name
 * Invited at least one member
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Create Team Screenshot (Invites Not Submitted)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Create Team Screenshot (Invites Not Submitted)</p></figcaption></figure>
 
 Click **Submit** to finalize the creation of your team.
 

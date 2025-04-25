@@ -68,3 +68,4 @@
 
 * [Report a bug or send feedback](community/report-a-bug-or-send-feedback.md)
 * [Join Discord](community/join-discord.md)
+* [Brand Assets](community/brand-assets.md)

@@ -31,7 +31,7 @@ The GitLab Merge Requests Widget offers customizable settings to tailor its func
       * **Starred**: Repositories you have starred.
       * **Personal**: Your personal repositories.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="259"><figcaption><p>GitLab Merge Requests Configure Modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="259"><figcaption><p>GitLab Merge Requests Configure Modal</p></figcaption></figure>
 
 * **Context Menu**:
   * **Adjust Size**: Right-clicking on the widget opens a context menu where you can switch between Medium and Large sizes to fit your dashboard layout.

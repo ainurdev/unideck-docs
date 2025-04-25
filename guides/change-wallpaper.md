@@ -1,12 +1,12 @@
 # Change wallpaper
 
-#### Switch Wallpapers
+### Switch Wallpapers
 
 By default, Unideck uses Unsplash for random wallpapers. Two buttons on the left allow you to change wallpapers.
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-#### Set Custom Wallpapers
+### Set Custom Wallpapers
 
 However, you have the option to set custom wallpapers tailored to your preferences. Follow these steps:
 
