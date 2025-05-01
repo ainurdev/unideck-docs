@@ -10,9 +10,9 @@ The upgrade process is quick, seamless, and directly accessible from your dashbo
 
 With **Plus**, you get:
 
-* ✨ **Unlimited live AI insights** to power your productivity
-* 🧩 **Professional widgets** for advanced analytics, charts, and integrations
-* 🧪 **Early access to new features** before anyone else
+* **Unlimited live AI insights** to power your productivity
+* **Professional widgets** for advanced analytics, charts, and integrations
+* **Early access to new features** before anyone else
 
 ***
 
@@ -36,7 +36,7 @@ Inside the **Subscription Plans** modal, you’ll see two options:
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-#### ✅ Plus – €5.99/month
+#### Plus – €5.99/month
 
 Best for individuals and power users:
 
@@ -46,7 +46,7 @@ Best for individuals and power users:
 
 Click **“Purchase”** to proceed with the payment flow.
 
-#### 🏢 Enterprise – Contact Us
+#### Enterprise – Contact Us
 
 Tailored for large teams and organizations.\
 This includes:
