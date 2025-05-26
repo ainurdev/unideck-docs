@@ -50,6 +50,7 @@
   * [Quote](reference-and-spec/widgets/quotes.md)
   * [Weather](reference-and-spec/widgets/weather.md)
   * [Notes](reference-and-spec/widgets/notes.md)
+  * [Spotify Player](reference-and-spec/widgets/spotify-player.md)
   * [Todo List](reference-and-spec/widgets/todo-list.md)
   * [Advanced - Table](reference-and-spec/widgets/advanced-table.md)
   * [Google Emails (Gmail)](reference-and-spec/widgets/google-emails.md)
