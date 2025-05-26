@@ -1,69 +1,68 @@
 # Advanced - Chart
 
-The **Advanced Card** widget is a powerful and versatile component in UniDeck's suite of Advanced Widgets. It is designed to display a single, key data point or metric from a custom data source, making it perfect for dashboards that track important numbers, statistics, or statuses.
+The **Advanced Chart** is the premier data visualization tool in the UniDeck Advanced Widget suite. It allows you to create rich, dynamic charts by pulling data from custom data sources. Connect to any internal or external HTTP/S API through the API Hub and transform complex data arrays into insightful Bar, Line, Pie charts, and more, directly on your dashboard.
 
-As part of the Advanced Widget family, the Advanced Card connects to custom data sources through UniDeck's **API Hub**. This allows you to use any custom HTTP API endpoint as your data source, with requests sent directly from your browser. This method ensures seamless compatibility with both public APIs and internal company or local network services.
+This widget is ideal for visualizing time-series data, comparing metrics, or tracking progress from virtually any data source you have access to.
 
-### Features
+### Getting Started
 
-* **Connect to Custom Data Sources**: Pull data from any external or internal service with a compatible HTTP/S API.
-* **Centralized API Management**: Leverage the API Hub to configure, share, and manage your data sources efficiently.
-* **Precise Data Mapping**: Visually map the exact data point from your API's JSON response to be displayed on the card.
-* **Dynamic Display**: Customize the card with a title, icon, and optional prefix or suffix to provide clear context for your data.
-* **Rich Styling Options**: Choose from multiple visual styles, including Light, Dark, Colorful, and Modern themes, with optional blurred effects.
-* **Error Handling**: Define a fallback value to display in case the data source is unavailable or returns an error.
-* **Live Preview**: Instantly see how your card will look as you adjust its configuration.
+First, add the Advanced Chart widget to your dashboard from the **Widget Gallery**. Upon adding it, the widget will display a "No configuration found" message. This is because, like all Advanced Widgets, it must be linked to a data source and configured.
+
+To begin, right-click on the widget and select **"Configure"** to open the main Chart Configuration panel.
 
 ### Configuration
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>Advanced Card Widget Configuration Modal</p></figcaption></figure>
+The configuration panel is where you define your chart's data and appearance. It features a live preview that updates as you make changes and is organized into two main tabs: **Data Settings** and **Chart Settings**.
 
-To begin, add the Advanced Card widget to your dashboard from the Widget Gallery. The primary setup is done within the configuration panel. To access it, right-click the widget and select **"Configure"**.
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption><p>Advanced Chart Widget Configuration Modal</p></figcaption></figure>
 
-The configuration panel is divided into several sections:
+#### Data Settings Tab
 
-#### 1. Data Mapping
+This tab is for connecting your API data to the chart's labels and datasets.
 
-This section determines which piece of data from your API response will be shown.
+**Response Shape**
 
-* **Response Field**: Select the specific field from the API's JSON response that contains the value you want to display. The widget supports nested JSON objects using dot notation (e.g., `data.count`).
+* **Response Shape**: Defines the expected structure of your API's JSON response. For most standard data arrays, "General" is sufficient.
 
-#### 2. Value Transformation
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p>Response Shape Options</p></figcaption></figure>
 
-Here, you can apply transformations to the raw value received from your data source before it is displayed.
+**Labels Configuration**
 
-* **Transform Value**: Apply formatting or perform calculations on the original value.
+This section configures the labels for the chart's primary axis (typically the x-axis).
 
-#### 3. Fallback
+* **Labels Array Field**: Select the JSON array from your response that contains the values or objects for your labels.
+* **Label Field Key**: Specify the key within the array's objects to use for the label text. For example, if your data contains timestamps, you might select a `start_time` or `date` field.
+* **Label Transformation**: Apply a transformation to the raw label values. This is especially useful for formatting. For example, select **ISO Date** to correctly parse and display date strings.
 
-Define the widget's behavior when it cannot retrieve data from the source.
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption><p>Labels Configuration Options</p></figcaption></figure>
 
-* **Fallback Value**: Enter a default value to display if the API call fails.
-* **Show Error**: Check this box to display an explicit error message on the widget upon failure.
+**Datasets Configuration**
 
-#### 4. Card Display Customization
+Here, you define the data series to be plotted on the chart. You can add multiple datasets to compare different data on the same chart.
 
-This area allows you to control the appearance and context of your displayed data.
+For each dataset, you can configure:
 
-* **Title**: Set the text that appears at the top of the card.
-* **Display**:
-  * **Prefix & Suffix**: Add text before or after the main value for context (e.g., a currency symbol as a prefix or "Widgets" as a suffix).
-  * **Icon**: Choose an icon to display on the card and toggle its visibility.
-  * **Size**: Adjust the font size of the main value (e.g., Small, Medium, Large).
-  * **Style**: Select a visual theme for the card.
+* **Label**: The name of the dataset as it will appear in the chart's legend (e.g., "Daily Sales").
+* **Data Array Field**: The JSON array containing the data for this series.
+* **Data Field Key**: The specific key within the data array that holds the value to be plotted.
+* **Data Grouping**: This powerful feature aggregates your data. Instead of plotting raw values, you can perform a calculation. For example, select **Count** to plot the total number of items in the data array, which is perfect for creating a bar chart of daily activities. Other potential options include Sum, Average, etc.
+* **Styling (Background, Border, Text Color)**: Assign unique colors to each dataset for clear visual separation in the final chart.
 
-After making your changes, click **"Save Settings"** to apply the configuration.
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>Datasets Configuration Options</p></figcaption></figure>
 
-### Styling and Sizing
+#### Chart Settings Tab
 
-You can quickly change the look and feel of your Advanced Card widget directly from the dashboard. Right-click the widget to open the context menu.
+While the Data Settings tab handles the "what," the Chart Settings tab handles the "how." This section controls the overall appearance and type of chart.
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>2x1</strong></td><td><a href="../../.gitbook/assets/AdvancedCard-2x1.png">AdvancedCard-2x1.png</a></td></tr><tr><td align="center"><strong>2x2</strong></td><td><a href="../../.gitbook/assets/AdvancedCard-2x2.png">AdvancedCard-2x2.png</a></td></tr><tr><td align="center"><strong>3x1</strong></td><td><a href="../../.gitbook/assets/AdvancedCard-3x1.png">AdvancedCard-3x1.png</a></td></tr><tr><td align="center"><strong>3x2</strong></td><td><a href="../../.gitbook/assets/AdvancedCard-3x2.png">AdvancedCard-3x2.png</a></td></tr><tr><td align="center"><strong>3x3</strong></td><td><a href="../../.gitbook/assets/AdvancedCard-3x3.png">AdvancedCard-3x3.png</a></td></tr></tbody></table>
+* **Chart Type**: Select the type of visualization you want to create (e.g., Bar, Line, Doughnut, Pie).
+* **Chart Title**: Add an overall title to your chart.
+* **Legend**: Control the visibility and position of the chart's legend.
+* **Grid Lines & Axes**: Toggle the visibility of the chart's grid lines and set titles for the X and Y axes to provide clear context for your data.
 
-* **Style**: Choose from a wide range of visual themes to match your dashboard's aesthetic. Each style is available in a standard and a "Blurred" variant.
-  * Default
-  * Light
-  * Dark
-  * Colorful
-  * Modern
-* **Size**: Select from a list of predefined sizes to best fit your card into your dashboard layout.
+<div><figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption><p>Chart Basic Settings</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Chart Common Options</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption><p>Chart Type-Specific Options</p></figcaption></figure></div>
+
+### Sizing
+
+The Advanced Chart widget is available in a range of large sizes to ensure your data is clear and readable. To change the size, right-click the widget, select **"Size"**, and choose an option that best fits your dashboard layout.
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>8x4</strong></td><td><a href="../../.gitbook/assets/AdvancedChart-8x4.png">AdvancedChart-8x4.png</a></td></tr><tr><td align="center"><strong>8x6</strong></td><td><a href="../../.gitbook/assets/AdvancedChart-8x6.png">AdvancedChart-8x6.png</a></td></tr><tr><td align="center"><strong>12x4</strong></td><td><a href="../../.gitbook/assets/AdvancedChart-12x4.png">AdvancedChart-12x4.png</a></td></tr><tr><td align="center"><strong>12x6</strong></td><td><a href="../../.gitbook/assets/AdvancedChart-12x6.png">AdvancedChart-12x6.png</a></td></tr><tr><td align="center"><strong>12x8</strong></td><td><a href="../../.gitbook/assets/AdvancedChart-12x8.png">AdvancedChart-12x8.png</a></td></tr><tr><td align="center"><strong>6x4</strong></td><td><a href="../../.gitbook/assets/AdvancedChart-6x4.png">AdvancedChart-6x4.png</a></td></tr></tbody></table>
