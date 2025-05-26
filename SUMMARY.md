@@ -53,6 +53,8 @@
   * [Spotify Player](reference-and-spec/widgets/spotify-player.md)
   * [Todo List](reference-and-spec/widgets/todo-list.md)
   * [Advanced - Table](reference-and-spec/widgets/advanced-table.md)
+  * [Advanced - Card](reference-and-spec/widgets/advanced-card.md)
+  * [Advanced - Chart](reference-and-spec/widgets/advanced-chart.md)
   * [Google Emails (Gmail)](reference-and-spec/widgets/google-emails.md)
   * [Google Workspace Users](reference-and-spec/widgets/google-workspace-users.md)
   * [Toggl Timer](reference-and-spec/widgets/toggl-timer.md)

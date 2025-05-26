@@ -1,7 +1,5 @@
 # Advanced - Table
 
-## Advanced - Table
-
 The **Advanced Table** widget is a powerful tool that allows you to create tables with custom data sources, enabling you to display and manage information in a structured format. This widget is particularly useful for users who need to monitor multiple data points or track specific metrics across various categories.
 
 #### Widget Sizes
