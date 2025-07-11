@@ -3,10 +3,10 @@
 ## General
 
 * [Introduction](README.md)
-* [What is UniDeck?](general/what-is-unideck.md)
-* [Why Use UniDeck?](general/why-use-unideck.md)
-* [UniDeck vs React-Admin](general/unideck-vs-react-admin.md)
-* [UniDeck vs Grafana](general/unideck-vs-grafana.md)
+* [What is UniDeck?](introduction/what-is-unideck.md)
+* [Why Use UniDeck?](introduction/why-use-unideck.md)
+* [UniDeck vs React-Admin](introduction/unideck-vs-react-admin.md)
+* [UniDeck vs Grafana](introduction/unideck-vs-grafana.md)
 
 ## User Manual
 

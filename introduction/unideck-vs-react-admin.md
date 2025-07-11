@@ -1,4 +1,4 @@
-# UniDeck vs React-Admin: Pros and Cons
+# UniDeck vs React-Admin
 
 When evaluating platforms for building dashboards and admin interfaces, it's essential to understand the strengths and limitations of each option. Here's a candid comparison between **UniDeck** and **React-Admin**:
 

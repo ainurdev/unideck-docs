@@ -1,4 +1,4 @@
-# UniDeck vs Grafana: Pros and Cons
+# UniDeck vs Grafana
 
 When it comes to choosing the right dashboard and visualization platform, understanding the strengths and limitations of each option is crucial. Here's a straightforward comparison between UniDeck and Grafana:
 
