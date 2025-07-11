@@ -1,10 +1,12 @@
 # Table of contents
 
+## General
+
 * [Introduction](README.md)
-  * [What is UniDeck?](introduction/what-is-unideck.md)
-  * [Why Use UniDeck?](introduction/why-use-unideck.md)
-  * [UniDeck vs React-Admin](introduction/unideck-vs-react-admin.md)
-  * [UniDeck vs Grafana](introduction/unideck-vs-grafana.md)
+* [What is UniDeck?](general/what-is-unideck.md)
+* [Why Use UniDeck?](general/why-use-unideck.md)
+* [UniDeck vs React-Admin](general/unideck-vs-react-admin.md)
+* [UniDeck vs Grafana](general/unideck-vs-grafana.md)
 
 ## User Manual
 
@@ -18,13 +20,6 @@
 
 ***
 
-* [Guides](guides/README.md)
-  * [Connect more integrations](guides/connect-more-integrations.md)
-  * [Manage AI Insight](guides/manage-ai-insight.md)
-  * [Change wallpaper](guides/change-wallpaper.md)
-  * [Manage requests in API Hub](guides/manage-requests-in-api-hub.md)
-  * [Change your account password](guides/change-your-account-password.md)
-  * [Delete your account](guides/delete-your-account.md)
 * [UniDeck Teams](unideck-teams/README.md)
   * [Create a Team](unideck-teams/create-a-team.md)
   * [Share Dashboards with Team](unideck-teams/share-dashboards-with-team.md)
@@ -33,11 +28,6 @@
 
 ## Reference and Spec
 
-* [Core Features](reference-and-spec/core-features/README.md)
-  * [API Hub](reference-and-spec/core-features/api-hub/README.md)
-    * [Request Editor Spec](reference-and-spec/core-features/api-hub/request-editor-spec.md)
-    * [Troubleshooting the API Hub](reference-and-spec/core-features/api-hub/troubleshooting-the-api-hub.md)
-  * [AI Insights](reference-and-spec/core-features/ai-insights.md)
 * [Widgets](reference-and-spec/widgets/README.md)
   * [App](reference-and-spec/widgets/app.md)
   * [Calendar](reference-and-spec/widgets/calendar.md)
@@ -67,6 +57,20 @@
   * [Trello - Assignments](reference-and-spec/widgets/trello-assignments.md)
   * [Jira - Active Sprint](reference-and-spec/widgets/jira-active-sprint.md)
   * [Jira - Issues](reference-and-spec/widgets/jira-issues.md)
+* [Core Features](reference-and-spec/core-features/README.md)
+  * [API Hub](reference-and-spec/core-features/api-hub/README.md)
+    * [Request Editor Spec](reference-and-spec/core-features/api-hub/request-editor-spec.md)
+    * [Troubleshooting the API Hub](reference-and-spec/core-features/api-hub/troubleshooting-the-api-hub.md)
+  * [AI Insights](reference-and-spec/core-features/ai-insights.md)
+
+## Guides
+
+* [Manage AI Insight](guides/manage-ai-insight.md)
+* [Change wallpaper](guides/change-wallpaper.md)
+* [Manage requests in API Hub](guides/manage-requests-in-api-hub.md)
+* [Change your account password](guides/change-your-account-password.md)
+* [Delete your account](guides/delete-your-account.md)
+* [Connect more integrations](guides/connect-more-integrations.md)
 
 ## Community
 
